@@ -56,3 +56,4 @@ plugins:
 
 domain: raptorialthing.github.io/thingsinweb
 url: https://raptorialthing.github.io/thingsinweb
+baseurl: raptorialthing.github.io/thingsinweb
