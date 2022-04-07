@@ -57,3 +57,14 @@ plugins:
 domain: raptorialthing.github.io/thingsinweb
 url: https://raptorialthing.github.io/thingsinweb
 baseurl: raptorialthing.github.io/thingsinweb
+
+lsi: false
+safe: true
+source: "."
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
