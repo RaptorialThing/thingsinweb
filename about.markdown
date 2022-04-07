@@ -1,18 +1,43 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Projects
+permalink: /projects/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is the 3D printer owners network prototype. You can add your printer and publish it. Others can select your 3D printer to render models from photos.
+[PhottoDitto](http://tele-ruby.herokuapp.com/) 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+#ruby3 #rails7 #postgresql #stimulus-rails #turbo-rails #tailwind 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[Source code](https://github.com/RaptorialThing/rubanok)
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+This mvp is a website where people can sell and buy crypto and fiat directly with other people all over the world. Borderless. In their own way.
+[Greenmars][http://vksounds.herokuapp.com/] 
+
+#ruby3 #rails7 #turbo-rails #stimulus-rails #bootstrap5 #sassc-rails 
+
+[Source code](https://github.com/RaptorialThing/greenmars)
+
+
+
+Just another blog on rails
+[Blog](http://api-tapi.herokuapp.com/)
+
+#rubyonrails #devise
+
+[Source Code](https://github.com/RaptorialThing/railsblog)
+
+
+
+Test users buying goods from sellers after registration. Users (with admin access) creating goods with price in EUR and selling. CoinGate convert EUR price to crypto and accept payments. Bitcoin, Monero, Ethereum, Ripple,Litecoin withdrawal. Accept payments from all countries. Crypto acquiring.
+[UinterPay][https://bravo-webdev.herokuapp.com/] 
+
+#ruby #rails7 #devise #coingate #api #bootstrap 
+
+[Source Code](https://github.com/RaptorialThing/uinterpay)
+
+
+Other
+[images](/other/)
