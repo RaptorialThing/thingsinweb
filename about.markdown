@@ -14,7 +14,7 @@ This is the 3D printer owners network prototype. You can add your printer and pu
 
 
 This mvp is a website where people can sell and buy crypto and fiat directly with other people all over the world. Borderless. In their own way.
-[Greenmars][http://vksounds.herokuapp.com/] 
+[Greenmars](http://vksounds.herokuapp.com/)
 
 #ruby3 #rails7 #turbo-rails #stimulus-rails #bootstrap5 #sassc-rails 
 
@@ -32,7 +32,7 @@ Just another blog on rails
 
 
 Test users buying goods from sellers after registration. Users (with admin access) creating goods with price in EUR and selling. CoinGate convert EUR price to crypto and accept payments. Bitcoin, Monero, Ethereum, Ripple,Litecoin withdrawal. Accept payments from all countries. Crypto acquiring.
-[UinterPay][https://bravo-webdev.herokuapp.com/] 
+[UinterPay](https://bravo-webdev.herokuapp.com/)
 
 #ruby #rails7 #devise #coingate #api #bootstrap 
 
@@ -40,4 +40,4 @@ Test users buying goods from sellers after registration. Users (with admin acces
 
 
 Other
-[images](/other/)
+[images](/thingsinweb/other/)
