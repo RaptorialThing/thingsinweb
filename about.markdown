@@ -27,8 +27,6 @@ Format excel file to csv according to inner rules;
 
 #sinatra #csv #excel
 
-[Source Code](https://github.com/RaptorialThing/railsblog)
-
 
 
 Test users buying goods from sellers after registration. Users (with admin access) creating goods with price in EUR and selling. CoinGate convert EUR price to crypto and accept payments. Bitcoin, Monero, Ethereum, Ripple,Litecoin withdrawal. Accept payments from all countries. Crypto acquiring.
