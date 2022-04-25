@@ -22,10 +22,10 @@ This mvp is a website where people can sell and buy crypto and fiat directly wit
 
 
 
-Just another blog on rails
-[Blog](http://api-tapi.herokuapp.com/)
+Format excel file to csv according to inner rules;
+[FormatterOnlineService](http://api-tapi.herokuapp.com/)
 
-#rubyonrails #devise
+#sinatra #csv #excel
 
 [Source Code](https://github.com/RaptorialThing/railsblog)
 
