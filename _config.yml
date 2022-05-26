@@ -53,11 +53,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-<<<<<<< HEAD
+
 domain: thingsinweb.pages.dev    
 url: https://thingsinweb.pages.dev
-=======
-domain: raptorialthing.github.io      
-url: https://raptorialthing.github.io  
-baseurl: /thingsinweb/     
->>>>>>> gh-pages
